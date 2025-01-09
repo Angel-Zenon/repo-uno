@@ -1,5 +1,5 @@
-name = "Raymundo"
-last_name = "Zenón"
+name = "Angel Raymundo"
+last_name = "Pablo Zenón"
 
 saludo = "Hola " + name + " " + last_name + " ¿Cómo estas?"
 
